@@ -1,0 +1,17 @@
+2018/09/25 10:27:33 [emerg] 1#1: unexpected ";" in /etc/nginx/conf.d/wordpress.conf:3
+2018/09/25 10:27:34 [emerg] 1#1: unexpected ";" in /etc/nginx/conf.d/wordpress.conf:3
+2018/09/25 10:27:35 [emerg] 1#1: unexpected ";" in /etc/nginx/conf.d/wordpress.conf:3
+2018/09/25 10:27:36 [emerg] 1#1: unexpected ";" in /etc/nginx/conf.d/wordpress.conf:3
+2018/09/25 10:27:37 [emerg] 1#1: unexpected ";" in /etc/nginx/conf.d/wordpress.conf:3
+2018/09/25 10:27:39 [emerg] 1#1: unexpected ";" in /etc/nginx/conf.d/wordpress.conf:3
+2018/09/25 10:27:42 [emerg] 1#1: unexpected ";" in /etc/nginx/conf.d/wordpress.conf:3
+2018/09/25 10:27:49 [emerg] 1#1: unexpected ";" in /etc/nginx/conf.d/wordpress.conf:3
+2018/09/25 10:28:02 [emerg] 1#1: unexpected ";" in /etc/nginx/conf.d/wordpress.conf:3
+2018/09/25 10:30:50 [emerg] 1#1: unexpected ";" in /etc/nginx/conf.d/wordpress.conf:3
+2018/09/25 10:30:51 [emerg] 1#1: unexpected ";" in /etc/nginx/conf.d/wordpress.conf:3
+2018/09/25 10:30:51 [emerg] 1#1: unexpected ";" in /etc/nginx/conf.d/wordpress.conf:3
+2018/09/25 10:30:52 [emerg] 1#1: unexpected ";" in /etc/nginx/conf.d/wordpress.conf:3
+2018/09/25 10:30:53 [emerg] 1#1: unexpected ";" in /etc/nginx/conf.d/wordpress.conf:3
+2018/09/25 10:30:55 [emerg] 1#1: unexpected ";" in /etc/nginx/conf.d/wordpress.conf:3
+2018/09/25 10:30:59 [emerg] 1#1: unexpected ";" in /etc/nginx/conf.d/wordpress.conf:3
+2018/09/25 10:31:06 [emerg] 1#1: unexpected ";" in /etc/nginx/conf.d/wordpress.conf:3
