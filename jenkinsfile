@@ -7,12 +7,8 @@ pipeline {
                 sh 'composer install'
             }
         }
-        stage('PHP Syntax check') { steps { sh 'vendor/bin/parallel-lint --exclude vendor/ .' } }
-        stage('Test'){
-            steps {
-                sh 'phpunit -c tests/unit/phpunit.xml tests/unit || exit 0'
-            }
-        }
-        
     }
 }
+
+        
+
