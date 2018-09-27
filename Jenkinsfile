@@ -39,7 +39,7 @@ pipeline {
         //         expression { params.REQUESTED_ACTION == 'deploy' }
         //     }
         steps {
-                //sh 'docker-compose up'
+                sh 'docker-compose up'
                 sh "echo success"
         }
     }
