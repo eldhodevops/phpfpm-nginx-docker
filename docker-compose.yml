@@ -19,11 +19,11 @@ services:
     volumes:
       - ./mysql:/var/lib/mysql
     environment:
-      - MYSQL_ROOT_PASSWORD=eldho123
+      - MYSQL_ROOT_PASSWORD=root
     restart: always
 
   phpfpm:
-    image: phpfpm
+    image: php:7.2.1-fpm
     container_name: phpfpm
     ports:
       - '9000:9000'
